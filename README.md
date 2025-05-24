@@ -1,8 +1,24 @@
-👋 Hello, I'm Tejas Maitri.
+# 👋 Hi there, I'm Tejas Maitri
 
-👀 I'm deeply passionate about coding, gaming, and exploring the world of anime.
+🎓 I recently completed my **Master of Science in Data Science**.  
+💡 Passionate about transforming data into actionable insights through **machine learning**, **data visualization**, and **statistical analysis**.
 
-🌱 Currently, I am dedicated to advancing my skills in data science through pursuing a Master of Science degree.
+🚀 I work on projects involving:
+- Predictive modeling (e.g., gold and cryptocurrency price forecasting)
+- Real-time data apps using **Python** and **Streamlit**
+- Reinforcement learning agents for classic games
+- Data preprocessing, feature engineering, and model optimization
+
+🛠️ Tools & Technologies:
+`Python` `R` `SQL` `Pandas` `Scikit-Learn` `TensorFlow` `Matplotlib` `Tableau` `Git`
+
+🎮 Outside of work, I enjoy **gaming**, **anime**, and building **creative tech projects**.
+
+📢 **Open to Work:** I'm actively looking for roles in **Data Science**, **Machine Learning**, or **Data Analytics**. Let's connect!
+
+📫 Reach me at:  
+[LinkedIn](www.linkedin.com/in/tejas-maitri-34b191210) | [Email](mailto:tejasmetri77@gmail.com)
+
 
 <!---
 TejasMaitri/TejasMaitri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
