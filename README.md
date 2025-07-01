@@ -6,7 +6,6 @@
 🚀 I work on projects involving:
 - Predictive modeling (e.g., gold and cryptocurrency price forecasting)
 - Real-time data apps using **Python** and **Streamlit**
-- Reinforcement learning agents for classic games
 - Data preprocessing, feature engineering, and model optimization
 
 🛠️ Tools & Technologies:
