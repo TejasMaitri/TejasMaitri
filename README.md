@@ -17,7 +17,7 @@
 📢 **Open to Work:** I'm actively looking for roles in **Data Science**, **Machine Learning**, or **Data Analytics**. Let's connect!
 
 📫 Reach me at:  
-[LinkedIn](www.linkedin.com/in/tejas-maitri-34b191210) | [Email](mailto:tejasmetri77@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/tejas-maitri-34b191210/) | [Email](mailto:tejasmetri77@gmail.com)
 
 
 <!---
