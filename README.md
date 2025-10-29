@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Tejas Maitri
+# 👋 Hi there, I'm Tejas
 
 🎓 I recently completed my **Master of Science in Data Science**.  
 💡 Passionate about transforming data into actionable insights through **machine learning**, **data visualization**, and **statistical analysis**.
@@ -20,6 +20,6 @@
 
 
 <!---
-TejasMaitri/TejasMaitri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tejas/Tejas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
